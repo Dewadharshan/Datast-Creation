@@ -1,0 +1,15 @@
+{
+    "x_data":[1,2,3,4,4,4],
+    
+    "raw_data":[1,2,3,4,5,6,7],
+    
+    "pattern_type":"DT or H&S",
+    
+    "pattern_featuers":[1,2,3,4,5],
+    
+    "y_data":[0,0,0,0,1,1,1,1,0,0,0,0],
+
+    "start_index":938,
+
+    "end_index":333
+}
